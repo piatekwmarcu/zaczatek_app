@@ -1,16 +1,24 @@
-# zaczatek_app
+# Zaczątek App
 
-A new Flutter project.
+Operational app for a multi-location restaurant: inventory, deliveries, staff hours, announcements, scheduling and basic analytics.
 
-## Getting Started
+## Product deck (Canva)
+👉 **Presentation:** https://www.canva.com/design/DAGrNM-oDWc/Vyq9kqkbf2IS19WpAtAOHA/view?utm_content=DAGrNM-oDWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had3404fca5
 
-This project is a starting point for a Flutter application.
+## Key features
+- Multi-location data (separate stock per location)
+- Inventory management + deliveries history
+- Staff hours (calendar input + admin overview)
+- Announcements (read status / reactions / comments)
+- Scheduling & visibility for employees/admin
 
-A few resources to get you started if this is your first Flutter project:
+## Tech stack
+- Flutter / Dart
+- Local storage (offline-first patterns)
+- Backend: Supabase (auth + database) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Roadmap
+- Full sync + conflict strategy
+- Push notifications
+- Role-based permissions polish
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
