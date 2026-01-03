@@ -32,3 +32,4 @@ Operational app for a multi-location restaurant: inventory, deliveries, staff ho
 - Role-based permissions polish
 
 
+
